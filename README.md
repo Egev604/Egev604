@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS / C# / Android Java
 - ⚡ Fun fact: 3k elo 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Egev604)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](t.me/Egev_v)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Egev604)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Egev_v)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egev604)](https://github.com/anuraghazra/github-readme-stats)
 
