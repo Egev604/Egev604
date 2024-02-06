@@ -1,5 +1,7 @@
-### Hi there 👋, my name is Dmitry
 ![](https://i.pinimg.com/736x/54/a1/83/54a183f395ab791d2b0c4669a2368867.jpg)
+
+
+### Hi there 👋, my name is Dmitry
 
 
 Skills: REACT / JS / HTML / CSS / C# / Android Java
@@ -14,5 +16,4 @@ Skills: REACT / JS / HTML / CSS / C# / Android Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Egev604&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Egev604)  
 
